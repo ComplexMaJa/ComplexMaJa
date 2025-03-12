@@ -1,6 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wsg!&fontSize=40&fontColor=white)
 
-### Wsg 👋 Welcome to my GitHub Profile!
+<p align="center">
+  <h1>👋 Welcome to my GitHub Profile! 👋</h1>
+</p>
 
 I'm **ComplexMaJa**, a passionate coder always eager to learn and build awesome things! 🚀
 
@@ -34,7 +36,7 @@ I'm **ComplexMaJa**, a passionate coder always eager to learn and build awesome 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ComplexMaJa&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ComplexMaJa&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ComplexMaJa&theme=react-dark" alt="Activity Graph" />
 </p>
 
