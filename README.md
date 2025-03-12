@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Welcome to my GitHub Profile! 👋</h1>
 
-I'm <strong>ComplexMaJa</strong>, a passionate coder always eager to learn and build awesome things! 🚀
+<p align="center">I'm <strong>ComplexMaJa</strong>, a passionate coder always eager to learn and build awesome things! 🚀</p>
 
 ---
 
