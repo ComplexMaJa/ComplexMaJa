@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wsg!&fontSize=40&fontColor=white)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Wsg!&fontSize=40&fontColor=white)
 
 <h1 align="center">👋 Welcome to my GitHub Profile! 👋</h1>
 
