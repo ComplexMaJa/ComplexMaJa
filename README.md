@@ -48,9 +48,6 @@ const complexMaJa = {
   <a href="https://github.com/ComplexMaJa" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
-  </a>
 </div>
 
 <div align="center">
