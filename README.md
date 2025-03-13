@@ -1,10 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6E44FF&height=200&section=header&text=Wsg!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=header&text=Wsg!&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38)
 
 <div align="center">
   <h1>👋 Welcome to ComplexMaJa's Coding Universe 👋</h1>
   <p><em>Turning coffee into code and ideas into reality ☕→💻</em></p>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E44FF&center=true&vCenter=true&width=435&lines=Web+Developer;Problem+Solver;Continuous+Learner;JavaScript+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Web+Developer;Problem+Solver;Continuous+Learner;JavaScript+Enthusiast)](https://git.io/typing-svg)
 </div>
 
 ## 💫 About Me
@@ -34,55 +34,22 @@ const complexMaJa = {
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComplexMaJa&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComplexMaJa&theme=github_dark" width="100%" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ComplexMaJa&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ComplexMaJa&theme=tokyonight&hide_border=true" width="49%" />
-</div>
-
-## 🚀 Projects
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Project 1</h3>
-        <p align="center">
-          <a href="https://github.com/ComplexMaJa/project-1" target="_blank">
-            <img src="https://via.placeholder.com/300x200/6E44FF/FFFFFF?text=Coming+Soon" width="100%" alt="Project 1"/>
-          </a>
-          <p align="center">
-            My upcoming project showcasing frontend skills
-          </p>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Project 2</h3>
-        <p align="center">
-          <a href="https://github.com/ComplexMaJa/project-2" target="_blank">
-            <img src="https://via.placeholder.com/300x200/6E44FF/FFFFFF?text=Coming+Soon" width="100%" alt="Project 2"/>
-          </a>
-          <p align="center">
-            Backend project in development
-          </p>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=ComplexMaJa&show_icons=true&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ComplexMaJa&theme=github_dark&hide_border=true" width="49%" />
 </div>
 
 ## 📫 Let's Connect!
 <div align="center">
   <a href="https://discord.com/users/complexmaja" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-%23FFFFFF.svg?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"/>
   </a>
   <a href="https://github.com/ComplexMaJa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
   </a>
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://codepen.io/complexmaja" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+    <img src="https://img.shields.io/badge/Email-%23FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
   </a>
 </div>
 
@@ -94,8 +61,8 @@ const complexMaJa = {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ComplexMaJa&color=6E44FF&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ComplexMaJa?label=Followers&style=flat-square&color=6E44FF" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=ComplexMaJa&color=FFFFFF&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ComplexMaJa?label=Followers&style=flat-square&color=FFFFFF" alt="Followers"/>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=6E44FF&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer)
