@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 ```javascript
-const complexMaJa = {
+const ComplexMaJa = {
   currentFocus: ["JavaScript", "Backend Development"],
   passions: ["Clean Code", "Web Development", "Problem Solving"],
   lifeGoal: "Securing a development position and living independently",
@@ -30,7 +30,6 @@ const complexMaJa = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <br><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
