@@ -37,10 +37,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ComplexMaJa&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ComplexMaJa&theme=react-dark" alt="Activity Graph" />
 </p>
 
