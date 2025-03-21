@@ -2,7 +2,6 @@
 
 <div align="center">
   <h1>👋 Welcome To My Profile! 👋</h1>
-  <p><em>Turning coffee into code and ideas into reality ☕→💻</em></p>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Web+Developer;Problem+Solver;Continuous+Learner;JavaScript+Enthusiast)](https://git.io/typing-svg)
 </div>
