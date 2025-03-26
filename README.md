@@ -70,7 +70,7 @@ const ComplexMaJa = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ComplexMaJa&color=FFFFFF&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=ComplexMaJa&color=000000&style=flat-square" alt="Profile Views">
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/ComplexMaJa?label=Followers&style=flat-square&color=FFFFFF" alt="Followers">
 </div>
