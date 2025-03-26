@@ -72,7 +72,7 @@ const ComplexMaJa = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ComplexMaJa&color=000000&style=flat-square" alt="Profile Views">
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/ComplexMaJa?label=Followers&style=flat-square&color=FFFFFF" alt="Followers">
+  <img src="https://img.shields.io/github/followers/ComplexMaJa?label=Followers&style=flat-square&color=000000" alt="Followers">
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer)
