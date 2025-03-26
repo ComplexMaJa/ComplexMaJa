@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=header&text=Wsg!&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=B22222&height=200&section=header&text=Wsg!&fontSize=50&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38)
 
 <div align="center">
   
@@ -41,9 +41,9 @@ const ComplexMaJa = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComplexMaJa&theme=github_dark" width="100%" alt="Profile Summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComplexMaJa&theme=radical" width="100%" alt="Profile Summary">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ComplexMaJa&show_icons=true&theme=github_dark&hide_border=true" width="49%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ComplexMaJa&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats">
 </div>
 
 ---
@@ -52,10 +52,10 @@ const ComplexMaJa = {
 
 <div align="center">
   <a href="https://discord.com/users/complexmaja" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-B22222?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://github.com/ComplexMaJa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
 
@@ -75,4 +75,4 @@ const ComplexMaJa = {
   <img src="https://img.shields.io/github/followers/ComplexMaJa?label=Followers&style=flat-square&color=000000" alt="Followers">
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=footer)
