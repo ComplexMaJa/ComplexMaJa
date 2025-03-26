@@ -14,10 +14,10 @@
 ```javascript
 const ComplexMaJa = {
   currentFocus: ["JavaScript", "Backend Development"],
-  passions: ["Clean Code", "Web Development", "Problem Solving"],
+  passions: ["Clean Code", "Web Development", "Problem Solving", "Gaming"],
   lifeGoal: "Securing a development position and living independently",
-  interests: ["Tech", "Coding", "Learning New Things"],
-  dailyRoutine: () => "Code. Learn. Repeat.",
+  interests: ["Tech", "Coding", "Learning New Things", "Video Games"],
+  dailyRoutine: () => "Code. Learn. Game. Repeat.",
 };
 ```
 
