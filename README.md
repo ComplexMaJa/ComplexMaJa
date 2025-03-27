@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  # 👋 Yo! I'm ComplexMaJa
+  # 👋 Hey there! I'm ComplexMaJa
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Web+Developer;Problem+Solver;Continuous+Learner;JavaScript+Enthusiast)](https://git.io/typing-svg)
 </div>
@@ -56,6 +56,8 @@ const ComplexMaJa = {
     />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComplexMaJa&theme=github_dark" width="100%" alt="Profile Summary"/>
   </picture>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ComplexMaJa&show_icons=true&theme=github_dark&hide_border=true" width="49%" alt="GitHub Stats">
 </div>
 
 ---
@@ -66,9 +68,11 @@ const ComplexMaJa = {
   <a href="https://discord.com/users/complexmaja" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-  
   <a href="https://github.com/ComplexMaJa" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://osu.ppy.sh/users/36600778" target="_blank">
+    <img src="https://img.shields.io/badge/Osu!-FF66AA?style=for-the-badge&logo=osu&logoColor=white" alt="Osu! Profile">
   </a>
 </div>
 
