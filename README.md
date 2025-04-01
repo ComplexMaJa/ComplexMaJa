@@ -15,7 +15,7 @@
 const ComplexMaJa = {
   currentFocus: ["JavaScript", "Backend Development"],
   skills: {
-    frontend: ["HTML", "CSS", "JavaScript", /* Add "React" here if you want */],
+    frontend: ["HTML", "CSS", "JavaScript",],
     backend: ["Node.js", "PHP"],
     tools: ["Git", "VS Code", "XAMPP"]
   },
