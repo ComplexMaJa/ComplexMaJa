@@ -85,7 +85,7 @@ const ComplexMaJa = {
 ---
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/8c2c217d7bd6b177c12149a4b2921f00/4e3e095f686f9c60-65/s500x750/5a28bfaa3508b5fda1bff9988daf47217e773c33.gif" width="300" alt="Animated GIF">
+  <img src="https://images.steamusercontent.com/ugc/924793784738673692/623A475B9E824728455FB717F3DC7766F9684F91/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="300" alt="Animated GIF">
   <br><br>
   <p>🥖 Continue learning and stay in the moment! 🥖</p>
 </div>
