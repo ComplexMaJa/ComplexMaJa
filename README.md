@@ -24,9 +24,6 @@ const ComplexMaJa = {
   motto: "Code. Learn. Game. Repeat.",
 };
 ```
-*(Optional: You might want to add "React" to the `frontend` skills array above since you have the badge below)*
-
----
 
 ## 🚀 Technologies & Tools
 
