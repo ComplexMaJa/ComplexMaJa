@@ -17,7 +17,7 @@ const ComplexMaJa = {
   skills: {
     frontend: ["HTML", "CSS", "JavaScript",],
     backend: ["Node.js", "PHP"],
-    tools: ["Git", "VS Code", "XAMPP"]
+    tools: ["Git", "VS Code", "Supabase", "Copilot"]
   },
   passions: ["Clean Code", "Web Development", "Problem Solving", "Gaming"],
   lifeGoal: "Securing a development position and living independently",
