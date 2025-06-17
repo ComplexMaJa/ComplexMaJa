@@ -46,11 +46,15 @@ const ComplexMaJa = {
 
 ---
 
-## 🧑‍💻 Currently
+## <img src="https://media.tenor.com/dKrij9kaPHsAAAAM/lucky-star-konata.gif" width="32" height="32" style="vertical-align:middle;margin-right:8px;" /> Blah Blah Blah
 
-- 🌱 **Learning:** Advanced JavaScript, TypeScript, Supabase, and cloud services  
-- 🔭 **Building:** Full-stack web applications  
-- 🎮 **Playing:** osu! and exploring game development  
+> "Insert motivational quote here."  
+> _Look how philosophical and cool i am. But let's be real, you're probably skimming—if you found this line, congrats: you actually read allat!_
+
+<details>
+<summary>Why does this README even exist?</summary>
+<p>Because the GitHub meta demands it. Also, who doesn't love a bit of markdown flex?</p>
+</details>
 
 ---
 
@@ -74,6 +78,11 @@ const ComplexMaJa = {
   <img src="https://inkandimage.wordpress.com/wp-content/uploads/2018/03/1ctwcsx.gif" width="300" alt="Animated GIF">
   <br><br>
   <p>🥖 Continue learning and stay in the moment! 🥖</p>
+  <br>
+  <sub>
+    <em>P.S. If you read all the way down here, i salute you for your attention span.<br>
+    There is no prize, except this baguetto: 🥖</em>
+  </sub>
 </div>
 
 ---
