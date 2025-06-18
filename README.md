@@ -79,7 +79,7 @@ const ComplexMaJa = {
 <div align="center">
   <img src="https://inkandimage.wordpress.com/wp-content/uploads/2018/03/1ctwcsx.gif" width="300" alt="Animated GIF">
   <br><br>
-  <p>🥖 Continue learning and stay in the moment! 🥖</p>
+  <p> <img src="https://i.redd.it/cfen6blqmq0f1.gif" width="32" height="32" style="vertical-align:middle;margin-right:8px;"/> Continue learning and stay in the moment! <img src="https://media.tenor.com/Izq-u6gi_H0AAAAj/kasane-teto.gif" width="32" height="32" style="vertical-align:middle;margin-right:8px;"/> </p>
   <br>
   <sub>
     <em>P.S. If you read all the way down here, i salute you for your attention span.<br>
