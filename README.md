@@ -90,9 +90,8 @@ const ComplexMaJa = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ComplexMaJa&color=000000&style=flat-square" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/ComplexMaJa?label=Followers&style=flat-square&color=000000&logo=github" alt="Followers">
-  <img src="https://img.shields.io/github/stars/ComplexMaJa?label=Total%20Stars&style=flat-square&color=000000&logo=github" alt="Total Stars">
+  <img src="https://count.getloli.com/@lol?name=lol&theme=booru-jaypee&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" alt="Profile Views">
+  <p>Numbers of times i've refreshed this page</p>
 </div>
-
+ 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer)
