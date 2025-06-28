@@ -7,7 +7,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Web+Developer;Problem+Solver;Continuous+Learner;JavaScript+Enthusiast;Backend+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=UI%2FUX+Enthusiast;Full+Stack+Developer;Continuous+Learner;VSRG+Enjoyer)](https://git.io/typing-svg)
 
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,php,html,css,git,github,vscode,supabase" height="50" />
 
