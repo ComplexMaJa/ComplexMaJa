@@ -1,5 +1,4 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=header&text=Wsg!&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38)
-
 <div align="center">
 
 <img src="https://github.com/ComplexMaJa/ComplexMaJa/blob/main/cooltext.svg" width="320" height="50" alt="Hey I'm ComplexMaJa!" style="vertical-align:middle;" />
@@ -7,7 +6,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=UI%2FUX+Enthusiast;Full+Stack+Developer;Continuous+Learner;VSRG+Enjoyer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=UI%2FUX+Enthusiast;Full+Stack+Developer;Continuous+Learner;VSRG+Enjoyer)](https://git.io/typing-svg)
 
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,php,html,css,git,github,vscode,supabase" height="50" />
 
