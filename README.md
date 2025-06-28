@@ -3,7 +3,7 @@
 <div align="center">
 
 <span>
-  <img src="https://github.com/ComplexMaJa/ComplexMaJa/blob/main/cooltext.svg" width="320" height="50" alt="Hey I'm ComplexMaJa!" style="vertical-align:middle; margin-right:12px;" />
+  <img src="https://github.com/ComplexMaJa/ComplexMaJa/blob/main/cooltext.svg" width="320" height="50" alt="Hey I'm ComplexMaJa!" style="vertical-align:middle;" />
   <img src="https://media.tenor.com/Sym38JyxoLgAAAAM/hatsune-miku-wave.gif" alt="Miku Waving" width="48" height="48" style="vertical-align:middle;" />
 </span>
 
