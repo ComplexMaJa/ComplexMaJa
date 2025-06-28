@@ -2,19 +2,18 @@
 
 <div align="center">
 
-<span>
-  <img src="https://github.com/ComplexMaJa/ComplexMaJa/blob/main/cooltext.svg" width="320" height="50" alt="Hey I'm ComplexMaJa!" style="vertical-align:middle;" />
-  <img src="https://media.tenor.com/Sym38JyxoLgAAAAM/hatsune-miku-wave.gif" alt="Miku Waving" width="48" height="48" style="vertical-align:middle;" />
-</span>
+<img src="https://github.com/ComplexMaJa/ComplexMaJa/blob/main/cooltext.svg" width="320" height="50" alt="Hey I'm ComplexMaJa!" style="vertical-align:middle;" />
+<img src="https://media.tenor.com/Sym38JyxoLgAAAAM/hatsune-miku-wave.gif" alt="Miku Waving" width="48" height="48" style="vertical-align:middle;" />
 
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Web+Developer;Problem+Solver;Continuous+Learner;JavaScript+Enthusiast;Backend+Builder)](https://git.io/typing-svg)
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,php,html,css,git,github,vscode,supabase" height="50" style="margin:12px 0" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,php,html,css,git,github,vscode,supabase" height="50" />
 
 <br>
 <img src="https://media.tenor.com/HvJ48-NOlfIAAAAj/teto-tetoris.gif" width="120" alt="Coding Cat" />
+
 </div>
 
 ---
@@ -31,7 +30,7 @@ const ComplexMaJa = {
   },
   passions: ["Clean Code", "Web Development", "Problem Solving", "Gaming"],
   lifeGoal: "Securing a development position and living independently",
-  motto: "Code. Learn. Game. Repeat.",
+  motto: "Code. Learn. Game. Repeat."
 };
 ```
 
@@ -42,32 +41,32 @@ const ComplexMaJa = {
 <picture>
   <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComplexMaJa&theme=github_dark" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComplexMaJa&theme=default" media="(prefers-color-scheme: light)" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComplexMaJa&theme=github_dark" width="100%" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComplexMaJa&theme=github_dark" width="100%" alt="Profile Summary" />
 </picture>
+
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=ComplexMaJa&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComplexMaJa&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="49%" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=ComplexMaJa&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComplexMaJa&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
+
 </div>
 
 ---
 
-</div>
-
 ## <img src="https://media.tenor.com/dKrij9kaPHsAAAAM/lucky-star-konata.gif" width="32" height="32" style="vertical-align:middle;margin-right:8px;" /> Blah Blah Blah
 
 > "Insert motivational quote here."  
-> _Look how philosophical and cool i am. But let's be real, you're probably skimming—if you found this line, congrats: you actually read allat!_
+> _Look how philosophical and cool I am. But let's be real, you're probably skimming—if you found this line, congrats: you actually read allat!_
 
 <details>
-<summary>Why does this README even exist?</summary>
-<p>Because the GitHub meta demands it. Also, who doesn't love a bit of markdown flex?</p>
+  <summary>Why does this README even exist?</summary>
+  <p>Because the GitHub meta demands it. Also, who doesn't love a bit of markdown flex?</p>
 </details>
 
 ---
 
 ## 🌐 Stalk Me
 
-<div align="center" style="display:flex;gap:16px;">
+<div align="center">
   <a href="https://discord.com/users/complexmaja" target="_blank" title="Discord">
     <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
   </a>
@@ -82,12 +81,16 @@ const ComplexMaJa = {
 ---
 
 <div align="center">
-  <img src="https://inkandimage.wordpress.com/wp-content/uploads/2018/03/1ctwcsx.gif" width="300" alt="Animated GIF">
+  <img src="https://inkandimage.wordpress.com/wp-content/uploads/2018/03/1ctwcsx.gif" width="300" alt="Animated GIF" />
   <br><br>
-  <p> <img src="https://i.redd.it/cfen6blqmq0f1.gif" width="32" height="32" style="vertical-align:middle;margin-right:8px;"/> Continue learning and stay in the moment! <img src="https://media.tenor.com/Izq-u6gi_H0AAAAj/kasane-teto.gif" width="32" height="32" style="vertical-align:middle;margin-right:8px;"/> </p>
+  <p>
+    <img src="https://i.redd.it/cfen6blqmq0f1.gif" width="32" height="32" style="vertical-align:middle;margin-right:8px;" />
+    Continue learning and stay in the moment!
+    <img src="https://media.tenor.com/Izq-u6gi_H0AAAAj/kasane-teto.gif" width="32" height="32" style="vertical-align:middle;margin-left:8px;" />
+  </p>
   <br>
   <sub>
-    <em>P.S. If you read all the way down here, i salute you for your attention span.<br>
+    <em>P.S. If you read all the way down here, I salute you for your attention span.<br>
     There is no prize, except this baguetto: 🥖</em>
   </sub>
 </div>
@@ -95,8 +98,8 @@ const ComplexMaJa = {
 ---
 
 <div align="center">
-  <img src="https://count.getloli.com/@lol?name=lol&theme=booru-jaypee&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" alt="Profile Views">
-  <p>Numbers of times i've refreshed this page</p>
+  <img src="https://count.getloli.com/@lol?name=lol&theme=booru-jaypee&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" alt="Profile Views" />
+  <p>Number of times I've refreshed this page</p>
 </div>
- 
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer)
