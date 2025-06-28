@@ -2,7 +2,12 @@
 
 <div align="center">
 
-# 👋 Hey there! I'm ComplexMaJa
+<span>
+  <img src="https://github.com/ComplexMaJa/ComplexMaJa/blob/main/cooltext.svg" width="320" height="50" alt="Hey I'm ComplexMaJa!" style="vertical-align:middle; margin-right:12px;" />
+  <img src="https://media.tenor.com/Sym38JyxoLgAAAAM/hatsune-miku-wave.gif" alt="Miku Waving" width="48" height="48" style="vertical-align:middle;" />
+</span>
+
+---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Web+Developer;Problem+Solver;Continuous+Learner;JavaScript+Enthusiast;Backend+Builder)](https://git.io/typing-svg)
 
@@ -60,7 +65,7 @@ const ComplexMaJa = {
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Stalk Me
 
 <div align="center" style="display:flex;gap:16px;">
   <a href="https://discord.com/users/complexmaja" target="_blank" title="Discord">
