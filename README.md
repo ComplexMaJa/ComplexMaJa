@@ -73,7 +73,7 @@ const ComplexMaJa = {
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
   <a href="https://osu.ppy.sh/users/36600778" target="_blank" title="osu!">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/1200px-Osu%21_Logo_2016.svg.png" height="40" alt="osu! Profile" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/1200px-Osu%21_Logo_2016.svg.png" width="45" height="40" alt="osu! Profile" />
   </a>
 </div>
 
