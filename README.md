@@ -2,7 +2,7 @@
 <div align="center">
 
 <img src="https://github.com/ComplexMaJa/ComplexMaJa/blob/main/cooltext.svg" width="320" height="50" alt="Hey I'm ComplexMaJa!" style="vertical-align:middle;" />
-<img src="https://media.tenor.com/Sym38JyxoLgAAAAM/hatsune-miku-wave.gif" alt="Miku Waving" width="48" height="48" style="vertical-align:middle;" />
+<img src="https://media.tenor.com/OAI9zgJ0RbgAAAAj/teto-kasane.gif" alt="Miku Waving" width="48" height="48" style="vertical-align:middle;" />
 
 ---
 
@@ -11,7 +11,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,php,html,css,git,github,vscode,supabase" height="50" />
 
 <br>
-<img src="https://media.tenor.com/HvJ48-NOlfIAAAAj/teto-tetoris.gif" width="120" alt="Coding Cat" />
+<img src="https://media.tenor.com/HvJ48-NOlfIAAAAj/teto-tetoris.gif" width="120" alt="te te te tetoteto" />
 
 </div>
 
