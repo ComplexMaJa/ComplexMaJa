@@ -80,11 +80,11 @@ const ComplexMaJa = {
 ---
 
 <div align="center">
-  <img src="https://inkandimage.wordpress.com/wp-content/uploads/2018/03/1ctwcsx.gif" width="300" alt="Animated GIF" />
+  <img src="https://i.pinimg.com/736x/70/68/05/70680549224fbe05e4e8fc1ad6ac605d.jpg" width="300" alt="Stupido" />
   <br><br>
   <p>
     <img src="https://i.redd.it/cfen6blqmq0f1.gif" width="32" height="32" style="vertical-align:middle;margin-right:8px;" />
-    Continue learning and stay in the moment!
+    Continue learning and stay in the moment! (dont be like teto)
     <img src="https://media.tenor.com/Izq-u6gi_H0AAAAj/kasane-teto.gif" width="32" height="32" style="vertical-align:middle;margin-left:8px;" />
   </p>
   <br>
