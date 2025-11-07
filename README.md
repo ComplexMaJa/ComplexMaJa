@@ -69,11 +69,14 @@ const ComplexMaJa = {
   <a href="https://discord.com/users/complexmaja" target="_blank" title="Discord">
     <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
   </a>
-  <a href="https://github.com/ComplexMaJa" target="_blank" title="GitHub">
+  <a href="https://github.com/ComplexMaJa" target="_blank" title="GitHub (You're litterly already on here bruh)">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
   <a href="https://osu.ppy.sh/users/36600778" target="_blank" title="osu!">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/1200px-Osu%21_Logo_2016.svg.png" width="40" height="40" alt="osu! Profile" />
+  </a>
+  <a href="https://www.youtube.com/@complexmaja" target="_blank" title="Youtube">
+    <img src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" height="40" width="40" alt="Youtube" />
   </a>
 </div>
 
