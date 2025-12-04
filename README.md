@@ -43,9 +43,6 @@ const ComplexMaJa = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComplexMaJa&theme=github_dark" width="100%" alt="Profile Summary" />
 </picture>
 
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=ComplexMaJa&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComplexMaJa&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
 
 </div>
 
